@@ -8,17 +8,17 @@
 
 ## Table of Contents
 
-  - [Характеристика](#features)
-  - [Установка](#installing)
-  - [Пример](#example)
-  - [Ресурсы](#resources)
-  - [Лицензия](#license)
+  - [Характеристики](#Характеристики)
+  - [Установка](#Установка)
+  - [Пример](#Пример)
+  - [Ресурсы](#Ресурсы)
+  - [Лицензия](#Лицензия)
 
-## Features
+## Характеристики
 
 - Возможность склонять слова через число.
 
-## Installing
+## Установка
 
 Using npm:
 
@@ -26,7 +26,7 @@ Using npm:
 $ npm install declination
 ```
 
-## Example
+## Пример
 
 Чтобы подключить библиотеку declination, сделайте следующее:
 
@@ -53,13 +53,13 @@ return func();
 
 
 
-## Resources
+## Ресурсы
 
 * [npmjs](https://www.npmjs.com/package/declination)
 * [changelog](https://github.com/Fozan-Developer/declination/blob/main/src/changelog.md)
 * [enVersion](https://github.com/Fozan-Developer/declination/blob/main/src/enREADME.MD)
 * [website](https://fozan.gitbook.io/fozan-inc/)
 
-## License
+## Лицензия
 
 [ISC](LICENSE)

@@ -57,7 +57,7 @@ return func();
 
 * [npmjs](https://www.npmjs.com/package/declination)
 * [changelog](https://github.com/Fozan-Developer/declination/blob/main/src/changelog.md)
-* [ruVersion](https://github.com/Fozan-Developer/)
+* [ruVersion](https://github.com/Fozan-Developer/declination)
 * [website](https://fozan.gitbook.io/fozan-inc/)
 
 ## License

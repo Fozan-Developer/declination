@@ -56,7 +56,7 @@ return func();
 ## Resources
 
 * [website](https://fozan.gitbook.io/fozan-inc/)
-* [ruVersion](https://github.com/Fozan-Developer/declination/src/ruREADME.MD)
+* [ruVersion](https://github.com/Fozan-Developer/declination/blob/main/src/ruREADME.MD)
 
 ## License
 

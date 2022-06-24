@@ -2,21 +2,21 @@
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://fozan.gitbook.io/fozan-inc/)
 
-Utility for working with declensions in Node.JS.
+Утилита для работы со склонениями в Node.JS.
 
 > All products of ФОЗАН inc. on the site: [click here](https://fozan.gitbook.io/fozan-inc/)
 
 ## Table of Contents
 
-  - [Features](#features)
-  - [Installing](#installing)
-  - [Example](#example)
-  - [Resources](#resources)
-  - [License](#license)
+  - [Характеристика](#features)
+  - [Установка](#installing)
+  - [Пример](#example)
+  - [Ресурсы](#resources)
+  - [Лицензия](#license)
 
 ## Features
 
-- Ability to declinate words by number.
+- Возможность склонять слова через число.
 
 ## Installing
 
@@ -28,13 +28,13 @@ $ npm install declination
 
 ## Example
 
-To connect the library declination, enter the following text:
+Чтобы подключить библиотеку declination, сделайте следующее:
 
 ```js
 const declination = require('declination');
 ```
 
-Executing `number` request
+Пример работы метода `number`:
 
 ```js
 const { number } = require('declination');
@@ -56,7 +56,7 @@ return func();
 ## Resources
 
 * [website](https://fozan.gitbook.io/fozan-inc/)
-* [ruVersion](https://github.com/Fozan-Developer/declination/src/ruREADME.MD)
+* [enVersion](https://github.com/Fozan-Developer/declination/)
 
 ## License
 
